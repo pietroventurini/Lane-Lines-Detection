@@ -4,4 +4,12 @@ This is a project for the Digital Image Processing course, based on the [Udacity
 ## The project
 A detailed description of the project can be found in the IPython notebooks:
 - **[Base lane lines detection](https://github.com/pietroventurini/lane-lines-detection/blob/master/Base_lane_lines_detection.ipynb)** (Edge detection, Hough transform)
+
+<img src="examples/line-segments-example.jpg" alt="drawing" style="display:block; margin-left:auto; margin-right:auto; width:21em;"/>
+
 - **[Advanced lane lines detection](https://github.com/pietroventurini/lane-lines-detection/blob/master/Advanced_lane_lines_detection.ipynb)** (Camera calibration, distortion correction, perspective transformations)
+
+<img src="examples/advanced_line_detection.png" alt="drawing" style="display:block; margin-left:auto; margin-right:auto; width:50em;"/>
+
+
+
